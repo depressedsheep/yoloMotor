@@ -2,8 +2,7 @@
 
 In an early developmental stage, requires testing and all. 
 
-Dependencies: 
-```numpy```
+Dependencies: ```numpy```.
 
 Run in Python 3.
 
